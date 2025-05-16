@@ -42,7 +42,7 @@ Contributions are welcome! Feel free to open issues for bugs 🐛 or suggest new
 
 ## 📄 License
 
- 📝
+ Unlicensed licence📝
 
 ## 📧 Contact (Got Questions? 🤔)
 
